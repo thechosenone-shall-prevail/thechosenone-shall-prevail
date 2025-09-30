@@ -29,17 +29,14 @@
 
 
 
-![fsociety mask](https://raw.githubusercontent.com/thechosenone-shall-prevail/KERB-SLEUTH/main/icons8-fsociety-mask-50.png)
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thechosenone-shall-prevail/KERB-SLEUTH/main/icons8-fsociety-mask-50.png" width="600" alt="fsociety mask" />
+</p>
 
 Welcome to **KERB-SLEUTH**, the ultimate automated penetration testing toolkit for Windows environments, focused on Active Directory attack vectors. Built by a relentless cybersecurity enthusiast who believes that **knowledge is power** and sometimes, a bit of ego is a good thing—as long as it's used for a good cause.
 
 KERB-SLEUTH aims to be your **"all-in-one" Swiss Army knife** for automating enumeration, exploitation, and reporting of AD security weaknesses. If you ever thought, *"I wish there was a tool that could do everything for AD attacks"*—well, here it is. And if you didn't think that… now you do.
 
-<br clear="right"/>
-
----
 
 ##  FEATURES
 
