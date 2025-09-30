@@ -60,11 +60,11 @@ KERB-SLEUTH aims to be your **"all-in-one" Swiss Army knife** for automating enu
 
 ```diff
 @@                                                                              @@
-@@  KERB-SLEUTH is open-source because sharing is caring                       @@
-@@  (unless it's your password)                                                @@
+@@  KERB-SLEUTH is open-source because sharing is caring                        @@
+@@  (unless it's your password)                                                 @@
 @@                                                                              @@
-@@  Built on the belief that learning never stops, and every imperfect         @@
-@@  attempt is a step closer to building something impactful for the community @@
+@@  Built on the belief that learning never stops, and every imperfect          @@
+@@  attempt is a step closer to building something impactful for the community  @@
 @@                                                                              @@
 ```
 
@@ -84,9 +84,9 @@ KERB-SLEUTH aims to be your **"all-in-one" Swiss Army knife** for automating enu
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │  1. Clone the repo                                               │
-│  2. Read the docs (Yes, we have them. And yes, you should)      │
+│  2. Read the docs (Yes, we have them. And yes, you should)       │
 │  3. Run the tool                                                 │
-│  4. Profit. (Just kidding, please use responsibly.)             │
+│  4. Profit. (Just kidding, please use responsibly.)              │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
