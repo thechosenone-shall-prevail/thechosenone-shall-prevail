@@ -27,10 +27,9 @@
 ##  ABOUT
 
 
-https://raw.githubusercontent.com/thechosenone-shall-prevail/KERB-SLEUTH/main/icons8-fsociety-mask-50.png
 
 
-
+![fsociety mask](https://raw.githubusercontent.com/thechosenone-shall-prevail/KERB-SLEUTH/main/icons8-fsociety-mask-50.png)
 
 
 
