@@ -33,9 +33,9 @@
   <img src="https://raw.githubusercontent.com/thechosenone-shall-prevail/KERB-SLEUTH/main/icons8-fsociety-mask-50.png" width="100" alt="fsociety mask" />
 </p>
 
-Welcome to **KERB-SLEUTH**, the ultimate automated penetration testing toolkit for Windows environments, focused on Active Directory attack vectors. Built by a relentless cybersecurity enthusiast who believes that **knowledge is power** and sometimes, a bit of ego is a good thing—as long as it's used for a good cause.
+Welcome to **KERB-SLEUTH**, the ultimate automated penetration testing toolkit for Windows environments, focused on Active Directory attack vectors. Built by a relentless cybersecurity enthusiast who believes that **knowledge is power** and sometimes, a bit of ego is a good thing as long as it's used for a good cause.
 
-KERB-SLEUTH aims to be your **"all-in-one" Swiss Army knife** for automating enumeration, exploitation, and reporting of AD security weaknesses. If you ever thought, *"I wish there was a tool that could do everything for AD attacks"*—well, here it is. And if you didn't think that… now you do.
+KERB-SLEUTH aims to be your **"all-in-one" Swiss Army knife** for automating enumeration, exploitation, and reporting of AD security weaknesses. If you ever thought, *"I wish there was a tool that could do everything for AD attacks"*well, here it is. And if you didn't think that… now you do.
 
 
 ##  FEATURES
@@ -44,11 +44,11 @@ KERB-SLEUTH aims to be your **"all-in-one" Swiss Army knife** for automating enu
 
 |  **AUTOMATED ENUMERATION** |  **ONE-CLICK EXPLOITATION** |
 |:---:|:---:|
-| Finds and maps AD attack surfaces with minimal effort | Launches common Active Directory attacks (Kerberoasting, AS-REP Roasting, etc.) with ease |
+| Finds and maps AD attack surfaces with minimal effort | Launches common Active Directory attacks with ease |
 
 |  **COMPREHENSIVE REPORTING** |  **MODULAR & EXTENSIBLE** |
 |:---:|:---:|
-| Generates actionable reports for your audits, CTFs, or just to flex on your friends | Easy to add new attack modules or customize existing ones |
+| Generates actionable reports for your audits or CTFs | Easy to add new attack modules or customize existing ones |
 
 </div>
 
