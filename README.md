@@ -30,7 +30,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thechosenone-shall-prevail/KERB-SLEUTH/main/icons8-fsociety-mask-50.png" width="200" alt="fsociety mask" />
+  <img src="https://raw.githubusercontent.com/thechosenone-shall-prevail/KERB-SLEUTH/main/icons8-fsociety-mask-50.png" width="100" alt="fsociety mask" />
 </p>
 
 Welcome to **KERB-SLEUTH**, the ultimate automated penetration testing toolkit for Windows environments, focused on Active Directory attack vectors. Built by a relentless cybersecurity enthusiast who believes that **knowledge is power** and sometimes, a bit of ego is a good thing—as long as it's used for a good cause.
