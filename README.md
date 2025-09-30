@@ -1,13 +1,11 @@
-.         <div align="center">
 
 # KERB-SLEUTH
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=7000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=800&lines=THE+ULTIMATE+AD+ATTACK+TOOLKIT" alt="Typing SVG (Montserrat)" />
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
 
 <div>
   <!-- Badges block -->
