@@ -70,7 +70,7 @@ KERB-SLEUTH aims to be your **"all-in-one" Swiss Army knife** for automating enu
 
 <br>
 
-> ### *"I'll pursue tech relentlessly and imperfectly, but I'll keep learning until I build something useful and contribute to something big and impactful."*
+> ### *"Pursue tech relentlessly and imperfectly, but keep learning until you build something useful and contribute to something big and impactful."*
 > 
 > **— [@no_auth_root](https://instagram.com/no_auth_root)**
 
@@ -152,9 +152,9 @@ MIT License — because the world is better when you share your toys.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 
-### **EGOTISTIC, BUT ONLY FOR A GOOD CAUSE** 
+### **EGOTISTIC, BUT ONLY FOR A GOOD CAUSE [LEARNING]** 
 
-If you're reading this, you're already part of something big.
+If you're reading this, you're already part of something big :D.
 
 **Now go break (and fix) something.**
 
