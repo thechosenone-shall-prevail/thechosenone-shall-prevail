@@ -17,7 +17,7 @@
  ╚═════╝ ╚═╝  ╚═══╝╚══════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=FF0040&center=true&vCenter=true&width=700&lines=jailbroke+claude+opus+4.5+%E2%80%94+not+a+flex%2C+just+tuesday;AD+is+a+puzzle.+kerberos+is+the+lock.+i+have+the+picks.;machines+have+rules.+i+find+where+they+stop+being+enforced.;not+a+developer.+a+researcher+who+writes+code+when+necessary.;the+cloud+is+just+someone+else%27s+computer.+i+know+that+computer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=FF0040&center=true&vCenter=true&width=700&lines=jailbroke+claude+opus+4.5+%E2%80%94+not+a+flex%2C+just+tuesday;not+a+developer.+a+researcher+who+writes+code+when+necessary.;the+cloud+is+just+someone+else%27s+computer.+i+know+that+computer.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -31,11 +31,11 @@
 
 **The Chosen One.** Security researcher. Adversarial thinker.
 
-I don't identify as a developer. Code is a tool — the same way Kali is a tool, and Burp Suite is a tool, and a well-crafted LDAP filter is a tool. What I actually do is study how systems fail. Then I build things that prove it.
+I don't identify as a developer. Code is a tool, the same way Kali is a tool, and Burp Suite is a tool, and a well-crafted LDAP filter is a tool. What I actually do is study how systems fail. Then I build things that prove it.
 
 Right now I'm deep in two spaces that are fundamentally the same problem: **AI alignment as an attack surface** and **Windows Active Directory trust abuse**. Both are about finding where a system's confidence in itself exceeds its actual security posture.
 
-I've worked across the full stack of offensive research — from kernel-level Windows internals to LLM constitutional bypasses. Cloud infrastructure, custom C2 servers, live network attacks, real operating environments. Done in the actual wild :)
+I've worked across the full stack of offensive research  from kernel-level Windows internals to LLM constitutional bypasses. Cloud infrastructure, custom C2 servers, live network attacks, real operating environments. Done in the actual wild :)
 
 ---
 
@@ -190,11 +190,11 @@ Most people treat LLM safety as binary — either it works or it doesn't.
 ## Creds
 
 ```
-[✓] Jailbroke Claude Opus 4.5          2025 — for adversarial AI research
-[✓] HackTheBox Top 0.5%                active
-[✓] eJPT Certified                    
-[✓] Smart India Hackathon Finalist     
-[✓] BASTION 2026 CTF Organizer         designed + ran the competition
+ Jailbroke Claude Opus 4.5          2025 — for adversarial AI research
+ HackTheBox Top 0.5%                active
+ eJPT Certified                     rookie
+ Smart India Hackathon Finalist     
+ BASTION 2026 CTF Organizer         designed + ran the competition
 ```
 
 ---
