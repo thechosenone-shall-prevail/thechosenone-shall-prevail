@@ -43,7 +43,6 @@ No percentages. No vibes. Findings are stamped `validated`, `likely`, `theoretic
 
 | | |
 |--|--|
-| [**KERB-SLEUTH**](https://github.com/thechosenone-shall-prevail/KERB-SLEUTH) | AD Kerberos pipeline. LDAP enum → hash extraction → cracking → Sigma. End to end. |
 | [**infiltrator**](https://github.com/thechosenone-shall-prevail/infiltrator) | RAT with a self-healing process mesh, polymorphic build pipeline, and a custom C2 protocol over AES-256-GCM. Actually deployed, not just committed. |
 | [**BASTION 2026**](https://github.com/thechosenone-shall-prevail/bastion) | CTF I designed and ran. Linux web target + Windows AD. People struggled. That was the point. |
 | [**NextGenFirewall**](https://github.com/thechosenone-shall-prevail/NextGenFirewall) | Built DPI + EDR + HIPS to understand what it misses. Spoiler: a lot. |
