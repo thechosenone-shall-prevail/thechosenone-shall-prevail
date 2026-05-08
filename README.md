@@ -10,7 +10,8 @@
  ╚═════╝ ╚═════╝ ╚══════╝╚═════╝      ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝   ╚═╝  
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=900&color=FF0040&center=true&vCenter=true&width=750&lines=Active+Directory+is+30+years+of+decisions+made+before+I+existed.;I+read+the+decisions.;turns+out+LLMs+and+AD+are+the+same+problem.;both+trust+themselves+more+than+they+should.)](https://git.io/typing-svg)
+<div align="center">
+<sub><code>30 years of backwards compatibility. &nbsp;·&nbsp; 0 years of regret. &nbsp;·&nbsp; that's the attack surface. &nbsp;·&nbsp; cold-relay maps it.</code></sub>
 
 </div>
 
