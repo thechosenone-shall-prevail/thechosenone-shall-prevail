@@ -10,7 +10,6 @@
  ╚═════╝ ╚═════╝ ╚══════╝╚═════╝      ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝   ╚═╝  
 ```
 
-<div align="center">
 <sub><code>30 years of backwards compatibility. &nbsp;·&nbsp; 0 years of regret. &nbsp;·&nbsp; that's the attack surface. &nbsp;·&nbsp; cold-relay maps it.</code></sub>
 
 </div>
@@ -42,6 +41,7 @@ No percentages. No vibes. Findings are stamped `validated`, `likely`, `theoretic
 ## Other Work
 
 | | |
+|--|--|
 | [**infiltrator**](https://github.com/thechosenone-shall-prevail/infiltrator) | RAT with a self-healing process mesh, polymorphic build pipeline, and a custom C2 protocol over AES-256-GCM. Actually deployed, not just committed. |
 | [**BASTION 2026**](https://github.com/thechosenone-shall-prevail/bastion) | CTF I designed and ran. Linux web target + Windows AD. People struggled. That was the point. |
 | [**NextGenFirewall**](https://github.com/thechosenone-shall-prevail/NextGenFirewall) | Built DPI + EDR + HIPS to understand what it misses. Spoiler: a lot. |
